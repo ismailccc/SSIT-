@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
                                 user.setAddress(editaddress.getText().toString());
                                 user.setEmail(editemail.getText().toString());
                                 user.setUserimage(editimageurl.getText().toString());
+                                user.setWebsite(editwebsite.getText().toString());
 
                                 if (editname.getText().toString().replace(" ", "").length() == 0 ||
                                         editphoneno.getText().toString().replace(" ", "").length() == 0 ||
