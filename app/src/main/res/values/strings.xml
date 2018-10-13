@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Realm</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="userdetails">User Details</string>
+    <string name="username">User Name</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="phoneno">Phone No</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="website">Website</string>
+    <string name="colon">&#58;</string>
+    <string name="imageurl">Image URL</string>
+
+</resources>
